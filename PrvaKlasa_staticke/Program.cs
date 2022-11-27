@@ -19,11 +19,13 @@ namespace PrvaKlasa_staticke
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             PrvaKlasa x = new PrvaKlasa();
             PrvaKlasa y = new PrvaKlasa();
             PrvaKlasa z = new PrvaKlasa();
+
+            Console.WriteLine("Vrijednost statičke varijable je: " + x.Counter);
 
             Console.ReadKey();
         }

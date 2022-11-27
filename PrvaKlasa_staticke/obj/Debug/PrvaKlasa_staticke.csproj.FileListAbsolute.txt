@@ -5,3 +5,11 @@ C:\Users\ucenik\source\repos\PrvaKlasa_staticke\PrvaKlasa_staticke\obj\Debug\Prv
 C:\Users\ucenik\source\repos\PrvaKlasa_staticke\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.csproj.CoreCompileInputs.cache
 C:\Users\ucenik\source\repos\PrvaKlasa_staticke\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.exe
 C:\Users\ucenik\source\repos\PrvaKlasa_staticke\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.pdb
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.exe
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\obj\Debug\PrvaKlasa_staticke.pdb
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\bin\Debug\PrvaKlasa_staticke.exe.config
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\bin\Debug\PrvaKlasa_staticke.exe
+C:\Users\linar\Documents\programiranje\PrvaKlasa-staticka-main\PrvaKlasa_staticke\bin\Debug\PrvaKlasa_staticke.pdb
